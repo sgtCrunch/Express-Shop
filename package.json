@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
